@@ -15,13 +15,13 @@ This project implements a *gesture-based virtual mouse* using real-time hand tra
 ## 📸 Demonstration
 
 ### 👉 Move Cursor
-![Move](assets/move.jpg)
+![Move](assets/Move.jpg)
 
 ### ✌ Dragging
-![Dragging](assets/drag.jpg)
+![Dragging](assets/Drag.jpg)
 
 ### 🖐 Scroll
-![Scroll](assets/scroll.jpg)
+![Scroll](assets/Scroll.jpg)
 
 ---
 
